@@ -1,0 +1,15 @@
+[package]
+name = "blob_json"
+version = "0.1.0"
+authors = ["Pawan Jenu <pawanjenu@gmail.com>"]
+
+[dependencies]
+clap = "2.33.1"
+slog-term = "2.6.0"
+slog-async = "2.5.0"
+slog = { version = "2.5.2", features = ["max_level_trace", "release_max_level_trace"] }
+odbc = "0.14.0"
+env_logger = "0.7.1"
+dotenv = "0.15.0"
+# This rbdate library path is relative so this might be needed to change as per config
+
