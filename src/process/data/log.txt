@@ -1,0 +1,5 @@
+Jun 30 14:45:06.890 INFO output_file: src/process/data/blob.json
+Jun 30 14:45:06.892 INFO log_file: src/process/data/log.txt
+Jun 30 14:45:06.892 INFO diagnostics_file: src/process/data/dig.txt
+Jun 30 14:45:06.892 INFO log_level: info
+Jun 30 14:45:06.918 INFO Total time taken for execution: 30.449888ms
